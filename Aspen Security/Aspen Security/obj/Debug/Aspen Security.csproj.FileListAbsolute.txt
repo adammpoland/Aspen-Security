@@ -1,0 +1,10 @@
+C:\Users\apola\source\repos\Aspen Security\Aspen Security\bin\Debug\Aspen Security.exe.config
+C:\Users\apola\source\repos\Aspen Security\Aspen Security\bin\Debug\Aspen Security.exe
+C:\Users\apola\source\repos\Aspen Security\Aspen Security\bin\Debug\Aspen Security.pdb
+C:\Users\apola\source\repos\Aspen Security\Aspen Security\obj\Debug\Aspen Security.csprojAssemblyReference.cache
+C:\Users\apola\source\repos\Aspen Security\Aspen Security\obj\Debug\Aspen_Security.Form1.resources
+C:\Users\apola\source\repos\Aspen Security\Aspen Security\obj\Debug\Aspen_Security.Properties.Resources.resources
+C:\Users\apola\source\repos\Aspen Security\Aspen Security\obj\Debug\Aspen Security.csproj.GenerateResource.cache
+C:\Users\apola\source\repos\Aspen Security\Aspen Security\obj\Debug\Aspen Security.csproj.CoreCompileInputs.cache
+C:\Users\apola\source\repos\Aspen Security\Aspen Security\obj\Debug\Aspen Security.exe
+C:\Users\apola\source\repos\Aspen Security\Aspen Security\obj\Debug\Aspen Security.pdb
